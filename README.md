@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thamasha</h1>
-<h3 align="center">A Sri Lankan software engineer based in Italy.</h3>
+<h3 align="left">A Sri Lankan software engineer based in Italy.</h3>
 
 - 🔭 I’m currently working on **finding a job!**
 
