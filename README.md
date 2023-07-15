@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thamasha</h1>
-<h3 align="left">A Sri Lankan software engineer based in Italy.</h3>
+<h3 align="left">A software engineer based in Melbourne, Australia.</h3>
 
 - 🔭 I’m currently working on **finding a job!**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [thamashagalahena.com](thamashagalahena.com)
 
-- 📫 How to reach me **hello.thamasha@gmail.com**
+- 📫 How to reach me **thamasha1996@gmail.com**
 
 - ⚡ Fun fact **I speak Italian pretty well! 😊**
 
