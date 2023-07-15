@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [thamashagalahena.com](thamashagalahena.com)
 
-- 📫 How to reach me **thamasha1996@gmail.com**
+- 📫 Reach me at **thamasha1996@gmail.com**
 
 - ⚡ Fun fact **I speak Italian pretty well! 😊**
 
