@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thamasha</h1>
-<h3 align="left">A software engineer based in Melbourne, Australia.</h3>
+<h3 align="left">A Software Engineer based in Melbourne, Australia.</h3>
 
 - 🔭 I’m currently working on **finding a job!**
 
