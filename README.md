@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Thamasha</h1>
 <h3 align="left">A Software Engineer based in Melbourne, Australia.</h3>
 
-- 🔭 I’m currently working on **finding a job!**
+Hi, I’m Thamasha (Tam) ツ
 
-- 🌱 I’m currently learning **Javascript and React.**
+👨‍💻 I’m a versatile software engineer with a passion for solving complex problems and building impactful applications. While I have extensive experience in full-stack development, I’m always ready to dive into new domains and learn whatever it takes to create innovative solutions.
 
-- 👨‍💻 All of my projects are available at [thamashagalahena.com](thamashagalahena.com)
+📈 Recently, I’ve been focusing on integrating AI technologies into projects, working with tools like OpenAI and Claude APIs. I’ve developed custom large language models (LLMs) by training them with proprietary data and implementing Retrieval-Augmented Generation (RAG) techniques to deliver smarter, context-aware solutions.
 
-- 📫 Reach me at **thamasha1996@gmail.com**
+🌟 Some highlights of my journey include:
 
-- ⚡ Fun fact **I speak Italian pretty well! 😊**
+Full-stack development: Building scalable web applications using React, Node.js, and Next.js.
+AI-powered solutions: Designing and deploying intelligent systems leveraging OpenAI APIs to enhance user experiences and optimize workflows.
+Cloud and DevOps expertise: Deploying infrastructure on platforms like GCP and Azure, automating processes with CI/CD pipelines, and provisioning resources with Terraform.
+Creative problem-solving: From optimizing system architectures to mentoring junior developers, I’ve consistently delivered results that drive growth and innovation.
+💭 I believe in crafting solutions that blend technical excellence with user-centric design. Whether it’s building robust backend systems, enhancing frontend interfaces, or creating intelligent applications powered by AI, I’m dedicated to making a meaningful impact.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itsthamasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsthamasha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thamashagalahena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamashagalahena" height="30" width="40" /></a>
-<a href="https://instagram.com/thamashagalahena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thamashagalahena" height="30" width="40" /></a>
-</p>
+🤓 I thrive in dynamic environments where I can learn, collaborate, and contribute to projects that push boundaries. My development philosophy centers on adaptability—whether it's working with web technologies, AI, or other emerging fields, I’m always ready to step up and deliver.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+🎓 I hold a Master’s in Information Technology from Deakin University and a Bachelor’s in Computer Engineering from the Polytechnic University of Turin.
