@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thamasha</h1>
 <h3 align="left">A Software Engineer based in Melbourne, Australia.</h3>
 
-Hi, I’m Thamasha (Tam) ツ
-
 👨‍💻 I’m a versatile software engineer with a passion for solving complex problems and building impactful applications. While I have extensive experience in full-stack development, I’m always ready to dive into new domains and learn whatever it takes to create innovative solutions.
 
 📈 Recently, I’ve been focusing on integrating AI technologies into projects, working with tools like OpenAI and Claude APIs. I’ve developed custom large language models (LLMs) by training them with proprietary data and implementing Retrieval-Augmented Generation (RAG) techniques to deliver smarter, context-aware solutions.
