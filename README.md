@@ -9,8 +9,11 @@
 
 Full-stack development: Building scalable web applications using React, Node.js, and Next.js.
 AI-powered solutions: Designing and deploying intelligent systems leveraging OpenAI APIs to enhance user experiences and optimize workflows.
+
 Cloud and DevOps expertise: Deploying infrastructure on platforms like GCP and Azure, automating processes with CI/CD pipelines, and provisioning resources with Terraform.
+
 Creative problem-solving: From optimizing system architectures to mentoring junior developers, I’ve consistently delivered results that drive growth and innovation.
+
 💭 I believe in crafting solutions that blend technical excellence with user-centric design. Whether it’s building robust backend systems, enhancing frontend interfaces, or creating intelligent applications powered by AI, I’m dedicated to making a meaningful impact.
 
 🤓 I thrive in dynamic environments where I can learn, collaborate, and contribute to projects that push boundaries. My development philosophy centers on adaptability—whether it's working with web technologies, AI, or other emerging fields, I’m always ready to step up and deliver.
