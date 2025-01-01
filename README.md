@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thamasha</h1>
+<h1 align="center">Hi 👋, I'm Thamasha (Tam) </h1>
 <h3 align="left">A Software Engineer based in Melbourne, Australia.</h3>
 
 👨‍💻 I’m a versatile software engineer with a passion for solving complex problems and building impactful applications. While I have extensive experience in full-stack development, I’m always ready to dive into new domains and learn whatever it takes to create innovative solutions.
